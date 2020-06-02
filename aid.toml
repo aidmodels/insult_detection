@@ -1,0 +1,7 @@
+[package]
+name="insult_detection"
+vendor="aidmodels"
+
+[[solvers]] 
+name="InsultDetectionSolver"
+class="insult_detection/solver/InsultDetectionSolver"

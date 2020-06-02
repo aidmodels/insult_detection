@@ -1,0 +1,3 @@
+mlpm
+deeppavlov
+-e git+https://github.com/deepmipt/bert.git@feat/multi_gpu#egg=bert_dp
