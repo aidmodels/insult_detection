@@ -1,4 +1,4 @@
 mlpm
 deeppavlov
-tensorflow==1.15.2
+tensorflow==2.5.3
 -e git+https://github.com/deepmipt/bert.git@feat/multi_gpu#egg=bert_dp
